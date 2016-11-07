@@ -1,6 +1,7 @@
 # -*- coding: utf-8 -*-
 
 '''Function splits text to sentences.'''
+''' ............................... '''
 
 def splitToSentences(text):
     print("todo...")
